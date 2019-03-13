@@ -33,5 +33,5 @@ function include(filename, id) {
         var div = $("#" + id);
         div.html(html);
         // div.html(escapeHtml(html));
-    });
+    }, "text");
 }
