@@ -1,8 +1,8 @@
 #Foo Fighters - Wasting Light
->Well, generally speaking, you will get high from the very first song to the end. - Epimosa
+>"Well, generally speaking, you will get high from the very first song to the end." - Epimosa
 ##<p align="justify">_**Wasting Light**_ is the seventh studio album by American rock band Foo Fighters. It was released on April 12, 2011 on RCA Records, and is the first album to feature rhythm guitarist Pat Smear since The Colour and the Shape (1997).</p>
 ![Cover](WL_cover.jpg)
->We don't give a sh*t! - Foo Fighters
+>"We don't give a sh*t!" - Foo Fighters
 ##<p align="justify">Wanting to capture the essence of their earlier work and avoid the artificiality of digital recording, the Foo Fighters recorded in the garage of frontman Dave Grohl in Encino, California, using only analog equipment. The sessions were produced by Butch Vig, with whom Grohl had worked on Nirvana's Nevermind. Since the old equipment did not allow for many mistakes to be corrected in post-production, the band spent three weeks rehearsing the songs, and Vig had to relearn outdated editing techniques. The band sought a heavier and rawer sound in contrast to the experimentation of their previous albums. Most of the lyrics were written as Grohl reflected upon his life and possible future. Guest musicians include Bob Mould, Krist Novoselic, Jessy Greene, Rami Jaffe and Fee Waybill.</p>
 ![Cover](Dave.jpg)
 ##<p align="justify">Foo Fighters' singer and guitarist Dave Grohl is good at:</p>
