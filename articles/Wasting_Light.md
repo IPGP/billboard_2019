@@ -1,4 +1,5 @@
 #Foo Fighters - Wasting Light
+>Well, generally speaking, you will get high from the very first song to the end. - Epimosa
 ##<p align="justify">_**Wasting Light**_ is the seventh studio album by American rock band Foo Fighters. It was released on April 12, 2011 on RCA Records, and is the first album to feature rhythm guitarist Pat Smear since The Colour and the Shape (1997).</p>
 ![Cover](WL_cover.jpg)
 >We don't give a sh*t! - Foo Fighters
